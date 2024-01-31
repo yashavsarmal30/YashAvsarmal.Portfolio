@@ -33,7 +33,7 @@ To view the website locally or make contributions, follow these steps:
    ```
 2. Navigate to the project directory:
    ```
-   cd YashAvsarmal.github.io
+   cd YashAvsarmal.Portfolio
    ```
 3. Open the `index.html` file in your preferred web browser.
 
