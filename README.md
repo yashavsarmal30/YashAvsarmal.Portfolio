@@ -1,6 +1,7 @@
 # Personal Portfolio Website - README
 
-Welcome to my personal portfolio website repository! This website showcases my skills, projects, and provides an overview of my professional journey. You can access the website by clicking on the following link: [https://yashavsarmal30.github.io/YashAvsarmal.github.io/](https://yashavsarmal30.github.io/YashAvsarmal.github.io/)
+Welcome to my personal portfolio website repository! This website showcases my skills, projects, and provides an overview of my professional journey. You can access the website by clicking on the following link:
+(https://yashavsarmal.netlify.app/)
 
 ## Table of Contents
 
