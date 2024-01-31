@@ -29,7 +29,7 @@ To view the website locally or make contributions, follow these steps:
 
 1. Clone this repository to your local machine using:
    ```
-   git clone https://github.com/yashavsarmal30/YashAvsarmal.github.io.git
+   git clone https://github.com/yashavsarmal30/YashAvsarmal.Portfolio.git
    ```
 2. Navigate to the project directory:
    ```
