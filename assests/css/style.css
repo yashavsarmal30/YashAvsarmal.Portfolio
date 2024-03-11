@@ -322,7 +322,7 @@ header .navbar ul li a:hover{
 /* social icons end */
 
 /* hero media queries starts*/
-@media(max-width:450px){
+@media(max-width:990px){
   .home .content{
    
     text-align: center;
@@ -354,8 +354,12 @@ header .navbar ul li a:hover{
     justify-self: center;
   }
   .home .image img{
-    margin-top: 15rem;
-  }
+    margin-top: 7rem;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
   .home .content p {
     font-size: 2.2rem;
     text-align: center;
